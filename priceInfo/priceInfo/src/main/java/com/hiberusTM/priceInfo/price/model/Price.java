@@ -26,7 +26,7 @@ public class Price implements Comparable<Price>{
 
     private Long productId;
 
-    private Integer priority; // 0 -> 1 -> 2...
+    private Integer priority;
 
     private Double price;
 
